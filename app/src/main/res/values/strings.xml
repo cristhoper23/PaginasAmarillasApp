@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PaginasAmarillasApp</string>
+    <string name="QueBusca">Qué busca:</string>
+    <string name="Donde">Dónde:</string>
+    <string name="Ciudades">Ciudades</string>
+    <string name="CercaDeMi">Cerca de mí</string>
+    <string name="UstedEstaEn">Usted está en: </string>
+</resources>
