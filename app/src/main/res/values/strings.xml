@@ -5,4 +5,9 @@
     <string name="Ciudades">Ciudades</string>
     <string name="CercaDeMi">Cerca de mí</string>
     <string name="UstedEstaEn">Usted está en: </string>
+
+    <string name="btnResultados">Resultados</string>
+    <string name="btnRelacionados">Lugares relacionados</string>
+    <string name="btnSucursales">Ver Sucursales</string>
+    <string name="txtRealSabor">El Real Sabor</string>
 </resources>
