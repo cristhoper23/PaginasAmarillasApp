@@ -10,4 +10,6 @@
     <string name="btnRelacionados">Lugares relacionados</string>
     <string name="btnSucursales">Ver Sucursales</string>
     <string name="txtRealSabor">El Real Sabor</string>
+
+    <string name="descripButton">Buscar</string>
 </resources>

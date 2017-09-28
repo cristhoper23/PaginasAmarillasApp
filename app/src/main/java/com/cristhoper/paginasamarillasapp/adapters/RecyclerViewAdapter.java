@@ -57,8 +57,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         holder.logoEmpresa.setImageResource(listaEmpresas.get(position).getLogo());
     }
 
-    //El permite determinar al adaptador la cantidad de elementos que se procesarán
-
+    //El método getItemCount permite determinar al adaptador la cantidad de elementos que se procesarán
     @Override
     public int getItemCount() {
         return listaEmpresas.size();
